@@ -2,3 +2,4 @@ Rencana Belajar Web Frontend Development Abdul
 -Belajar Dasar HTML
 -Memahami CSS Dasar, CSS Layouting, dan CSS3
 -Belajar Javascript dasar dan DOM Javascript
+-Belajar Flex Box dan juga CSS Unit
